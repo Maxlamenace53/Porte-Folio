@@ -18,3 +18,11 @@ const App = () => {
 };
 
 export default App;
+
+const siteProps = {
+  name: "Maxime Lemée",
+  title: "Developpeur Web",
+  email: "maxime.lemee1@gmail.com",
+  gitHub: "https://github.com/Maxlamenace53",
+  linkedIn: "https://github.com/Maxlamenace53",
+};

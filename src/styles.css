@@ -1,3 +1,7 @@
 /**
 * CSS file to hold styles that apply across the application
 */
+
+body {
+  background-color: rgb(0, 255, 200);
+}
